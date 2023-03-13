@@ -1,19 +1,11 @@
 # Hydrogen
 轻盈、干净
 
-跟随她的脚步，开始你的博客之旅
-
-[Demo](https://atlinker.cn)
-
->厌倦了无止境的加载以及繁杂的页面内容？那您很幸运，因为您发现了Hydrogen
-><br>我们避免繁杂 使用轻量化的模块来渲染在您屏幕上展示出来的一切 
-><br>当您使用过后就知道，她带给你的不仅仅只有简洁极速的阅读体验...
 
 语言：简体中文 | [English](README-en.md)
 
 ![hydrogen](/theme/logo-h.svg)
 
-~~点点~~Star~~来一个好吗！秋梨膏！！~~
 
 # #快速开始
 
@@ -33,7 +25,7 @@
 
 `baseurl` : 博客所在的目录文件夹，开头需带上`/`，如果为根目录请留空(建议将博客放置在根目录，<strong>填写错误可能会导致样式丢失！</strong>)
 
-`url` : 你的域名，如`atlinker.cn`无需加`http/https://`
+`url` : 你的域名，如`demo.cn`无需加`http/https://`
 
 `bulidtime` : 博客建立时的时间戳，填写后将自动计算博客建立时间并显示在页脚. [日期转时间戳](https://tool.lu/timestamp/)
 
@@ -94,15 +86,3 @@
 
 因Valine的兼容性可能会与Pjax功能冲突！如开启评论，建议关闭Pjax功能
 
-## #写在最后
-
-请花10分钟时间**认真**阅读文档，如还有疑难之处，请提[issues](https://github.com/link9596/hydrogen/issues/new)，我会尽力帮忙
-
-如使用过程有任何疑难Bug，也请提出[issues](https://github.com/link9596/hydrogen/issues/new)！ :+1:
-
-最后，如果喜欢~请给项目点个star:wink:(点star的dalao都超级靓的)
-
-![hydrogen](/theme/author.svg)
-
-![](https://img.shields.io/github/repo-size/link9596/hydrogen?color=%23F8BBD0)
-![](https://img.shields.io/github/release/link9596/hydrogen?color=%235C6BC0&label=Version)

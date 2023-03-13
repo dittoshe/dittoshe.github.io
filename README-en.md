@@ -3,7 +3,6 @@ Lightweight and clean
 
 Follow her footsteps and start your blog journey.
 
-[Demo](https://atlinker.cn)
 
 语言：English | [Chinese](README.md)
 
@@ -29,7 +28,7 @@ Modify the following options as required:
 
 `baseurl` : The directory folder where the blog is located should start with `/`. If it is the root directory, please leave it blank. (It is recommended that the blog be placed in the root directory,Don't make a mistake! Resource files such as style sheets cannot be loaded)
 
-`url` : Your domain name, such as `atlinker.cn`, does not need to add `http/https://`
+`url` : Your domain name, such as `demo.cn`, does not need to add `http/https://`
 
 `bulidtime` :  the time stamp at the time of blog establishment, which will automatically calculate the time of blog establishment and display in the footer. [Date-to-Time stamp](https://tool.lu/timestamp/)
 
@@ -91,17 +90,6 @@ After making sure the configuration is correct, change the value of "enable" in 
 
 Valine's compatibility may conflict with the Pjax function! If comments are enabled, it is recommended to disable the Pjax function
 
-## #Write at the end
 
-Please spend 10 minutes ** seriously ** reading the document. If you have any problems, please mention [issues](https://github.com/link9596/hydrogen/issues/new). I will try my best to help.
 
-If there are any difficulties in using Bug, please also raise [issues](https://github.com/link9596/hydrogen/issues/new)! :+1:
 
-Finally, if you like it, please give me a star:wink: (thank you!!.
-
-> Thank google for providing translation.
-
-![hydrogen](/theme/author.svg)
-
-![](https://img.shields.io/github/repo-size/link9596/hydrogen?color=%23F8BBD0)
-![](https://img.shields.io/github/release/link9596/hydrogen?color=%235C6BC0&label=Version)
